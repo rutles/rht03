@@ -9,3 +9,6 @@ pi@raspberrypi~/rht03$ sudo ./rht03
 
 If you modify rht03.c and rebuild, require setup register library.<br>
 see https://github.com/rutles/libregister
+
+Tetsuya Suzuki, 2013<br>
+GNU General Public License
